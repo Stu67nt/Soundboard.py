@@ -1,0 +1,6 @@
+Something went wrong trying to play this file. 
+Check the set file location contains the file or file your trying to play is in the correct format.
+Should look something like C:\Users\tanzi\PycharmProjects\Soundboard\Audio Files\
+Current set directory: C:\Users\tanzi\PycharmProjects\Soundboard\Audio Files\
+
+File you attempted to play: test.mp3
